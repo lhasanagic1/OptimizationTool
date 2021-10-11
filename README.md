@@ -1,0 +1,2 @@
+# OptimizationTool
+Optimizacijski alat napisan u C++ programskom jeziku koji kreira problem matematičkog programiranja sa ograničenjima, a korištenjem IBM ILOG CP Optimizer softverske biblioteke, na osnovu ulaznih parametara koji karakterišu ugradbenu aplikaciju u realnom vremenu. Optimizacijski alat na svom izlazu daje raspored izvršavanja aplikacije za svako od jezgara koji je optimizovan u odnosu na među-jezgrena kašnjenja. Pored optimizacijskog alata, implementiran je i sintetički generator testova kako bi se evaluirala performansa alata.
